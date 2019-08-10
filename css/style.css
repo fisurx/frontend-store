@@ -113,7 +113,8 @@ header{
  
 .grafico{
     min-height: 30rem;
-    backgr
+    background-size: cover;
+    background-position: center center;
 }
 
 .grafico-1{
@@ -125,7 +126,7 @@ header{
 
 .grafico-2{
     background-image: url(../img/grafico2.jpg);
-    grid-row: 8;
+    grid-row: 7;
     grid-column: 1/3;
 }
 
